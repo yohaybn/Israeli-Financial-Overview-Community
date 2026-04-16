@@ -1,5 +1,14 @@
 {
   "version": 1,
-  "updatedAt": "",
-  "rules": []
+  "updatedAt": "2026-04-16T10:04:18.599Z",
+  "rules": [
+    {
+      "id": "9268fd10-d1d4-4719-870b-e629428c8434",
+      "name": "High Restaurant Spending Alert",
+      "author": "yoyo",
+      "submittedAt": "2026-04-16T10:04:18.599Z",
+      "path": "community/rules/9268fd10-d1d4-4719-870b-e629428c8434.json",
+      "featured": false
+    }
+  ]
 }
