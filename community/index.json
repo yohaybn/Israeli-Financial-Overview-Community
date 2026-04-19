@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-16T10:04:18.599Z",
+  "updatedAt": "2026-04-19T11:41:38.311Z",
   "rules": [
     {
       "id": "9268fd10-d1d4-4719-870b-e629428c8434",
@@ -8,6 +8,14 @@
       "author": "yoyo",
       "submittedAt": "2026-04-16T10:04:18.599Z",
       "path": "community/rules/9268fd10-d1d4-4719-870b-e629428c8434.json",
+      "featured": false
+    },
+    {
+      "id": "8549ab5c-f46f-4b40-b448-6ba0b47ee654",
+      "name": "Low income alert last 20 days",
+      "author": "yoyo",
+      "submittedAt": "2026-04-19T11:41:38.311Z",
+      "path": "community/rules/8549ab5c-f46f-4b40-b448-6ba0b47ee654.json",
       "featured": false
     }
   ]
