@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-20T06:55:13.271Z",
+  "rules": [
+    {
+      "id": "3b3938df-8d69-439a-b1d4-e9ed8b548d0c",
+      "name": "התראה על אי קבלת שכר או קצבה",
+      "author": "yoyo",
+      "submittedAt": "2026-04-20T06:55:13.271Z",
+      "path": "community/rules/3b3938df-8d69-439a-b1d4-e9ed8b548d0c.json",
+      "featured": false
+    }
+  ]
+}
