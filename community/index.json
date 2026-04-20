@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-20T05:51:01.154Z",
+  "updatedAt": "2026-04-20T05:57:41.343Z",
   "rules": [
     {
       "id": "8549ab5c-f46f-4b40-b448-6ba0b47ee654",
@@ -17,6 +17,15 @@
       "submittedAt": "2026-04-20T05:51:01.154Z",
       "path": "community/rules/1dc3678e-f8b0-4dd4-93ee-a2247f9d2b0e.json",
       "featured": false
+    },
+    {
+      "id": "rule-id-1",
+      "name": "My rule",
+      "author": "tester",
+      "submittedAt": "2026-04-20T05:57:41.343Z",
+      "path": "community/rules/rule-id-1.json",
+      "featured": false,
+      "description": "Optional contributor note (not the rule’s internal description)."
     }
   ]
 }
