@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-20T05:42:54.287Z",
+  "rules": [
+    {
+      "id": "8549ab5c-f46f-4b40-b448-6ba0b47ee654",
+      "name": "Low income alert last 20 days",
+      "author": "yoyo",
+      "submittedAt": "2026-04-20T05:42:54.287Z",
+      "path": "community/rules/8549ab5c-f46f-4b40-b448-6ba0b47ee654.json",
+      "featured": false
+    }
+  ]
+}
