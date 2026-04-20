@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-20T06:55:13.271Z",
+  "updatedAt": "2026-04-20T07:02:51.734Z",
   "rules": [
     {
       "id": "3b3938df-8d69-439a-b1d4-e9ed8b548d0c",
@@ -8,6 +8,14 @@
       "author": "yoyo",
       "submittedAt": "2026-04-20T06:55:13.271Z",
       "path": "community/rules/3b3938df-8d69-439a-b1d4-e9ed8b548d0c.json",
+      "featured": false
+    },
+    {
+      "id": "1dc3678e-f8b0-4dd4-93ee-a2247f9d2b0e",
+      "name": "aaaaaaa",
+      "author": "yoyo",
+      "submittedAt": "2026-04-20T07:02:51.734Z",
+      "path": "community/rules/1dc3678e-f8b0-4dd4-93ee-a2247f9d2b0e.json",
       "featured": false
     }
   ]
